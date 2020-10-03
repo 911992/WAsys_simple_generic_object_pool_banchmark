@@ -1,0 +1,2 @@
+# WAsys_simple_generic_object_pool_banchmark
+Benchmarking of WAsys_simple_generic_object_pool
